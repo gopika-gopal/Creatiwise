@@ -4,7 +4,7 @@ import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
   plugins: [rewriteAll()],
-  base: '/GymFluencer/',
+  base: '/creatiwise/',
 
   css: {
     postcss: {
